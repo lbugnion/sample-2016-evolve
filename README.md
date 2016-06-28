@@ -1,6 +1,6 @@
 # An In-Depth Study of the MVVM Light Databinding System
 
-My code samples for the Xamarin Evolve 2016 conference
+My code samples for the Xamarin Evolve 2016 conference (Orlando FL)
 
 # Presentation details, Slides, Video
 
