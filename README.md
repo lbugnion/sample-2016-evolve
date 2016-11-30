@@ -8,6 +8,10 @@ You can see the video recording and the slides here:
 
 http://galasoft.ch/presentations/presentationdetails.cshtml?name=2016006
 
+# Abstract
+
+Living in the dark ages and still wiring up properties manually between your user interface and data source? Databinding is a technique to automatically synchronize a user interface with it's data source and can vastly simplify how your app displays and interacts with data. While databinding is available out of the box for Xamarin.Forms and Windows applications, additional components are needed in Xamarin.Android and Xamarin.iOS. In this session, learn how to leverage databinding in your cross-platform applications as you master MVVM Light databinding and the MVVM pattern.
+
 # Content
 
 ## XamBindingSample
